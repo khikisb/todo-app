@@ -10,7 +10,7 @@ Aplikasi ini adalah aplikasi manajemen tugas berbasis web yang memungkinkan peng
 -   Kutipan Motivasi  : Menampilkan kutipan harian dari API API-Ninjas di dashboard.
 -   Desain Responsif  : Antarmuka pengguna yang rapi dan responsif menggunakan Bootstrap 5 dengan tata letak modern.
 
-![Screenshot Dashboard](https://github.com/user-attachments/assets/a60210ef-0c81-4e41-a72a-51a7ad4a0e05)
+![Screenshot Dashboard](https://github.com/khikisb/todo-app/blob/master/dashboard.png?raw=true)
 
 ## Teknologi yang Digunakan
 -   Backend  : PHP 8.1, Laravel 10
