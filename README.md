@@ -1,3 +1,5 @@
+![Screenshot Dashboard](https://github.com/khikisb/todo-app/blob/8600032529c4753d4126ff7e37e74f0d9a20a6e8/SCREENSHOT%20APLIKASI/dashboard.png)
+
 ```markdown
 # Aplikasi Manajemen Tugas (To-Do App)
 
