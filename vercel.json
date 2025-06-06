@@ -29,6 +29,7 @@
         "DB_HOST": "9ljjw.h.filess.io",
         "DB_PORT": "3307",
         "DB_DATABASE": "todoapp_secrettape",
-        "DB_USERNAME": "todoapp_secrettape"
+        "DB_USERNAME": "todoapp_secrettape",
+        "API_NINJAS_KEY"= "542BKzKRhiZGajd4CQE8pQ==iEgHmYD2WWXrC68i"
     }
 }
