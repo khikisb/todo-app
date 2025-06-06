@@ -36,6 +36,10 @@ Ikuti langkah-langkah berikut untuk mengatur dan menjalankan proyek di lingkunga
    cd todo-app
 ```
 
+![LOGIN](https://github.com/khikisb/todo-app/blob/4bf97fdf735529e442062bcd989f5986d6ba9df1/SCREENSHOT%20APLIKASI/LOGIN.png)
+![REGISTER](https://github.com/khikisb/todo-app/blob/4bf97fdf735529e442062bcd989f5986d6ba9df1/SCREENSHOT%20APLIKASI/REGISTER.png)
+
+
 Atau unduh proyek secara manual dan ekstrak ke direktori kerja.
 
 2.   Instal Dependensi  :
